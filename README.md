@@ -1,0 +1,2 @@
+# omnicognitia-doctrina-aws
+AWS
